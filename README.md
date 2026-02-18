@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Firsty+%F0%9F%91%8B;On-chain+Research+%C3%97+Finance;Sheets+%2F+Writing+Report+%2F+Python)](https://git.io/typing-svg)
+
+</div>
+
 # Firsty (Firstyjs) — On-chain Research × Finance
 
 **Digital Asset Research Intern candidate (Bitkub)**  
