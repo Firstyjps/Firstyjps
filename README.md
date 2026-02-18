@@ -2,9 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Firsty+%F0%9F%91%8B;On-chain+Research+%C3%97+Finance;Sheets+%2F+Writing+Report+%2F+Python)](https://git.io/typing-svg)
 
-</div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Firstyjs&fontAlign=50&fontAlignY=35&desc=On-chain%20Research%20x%20Finance&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Firstyjps&fontAlign=50&fontAlignY=35&desc=On-chain%20Research%20x%20Finance&descAlign=50&descAlignY=60" />
 </div>
 
 
@@ -48,4 +47,5 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 - Email: k.junpoonsup@gmail.com
 - LinkedIn: https://www.linkedin.com/in/firstyjun/
 
-![snake](https://raw.githubusercontent.com/Firstyjs/Firstyjs/main/dist/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/Firstyjps/Firstyjps/main/dist/github-contribution-grid-snake.svg)
+
