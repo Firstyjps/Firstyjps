@@ -1,16 +1,40 @@
-## Hi there 👋
+# Firsty (Firstyjs) — On-chain Research × Finance
 
-<!--
-**Firstyjps/Firstyjps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Digital Asset Research Intern candidate (Bitkub)**  
+I build **on-chain dashboards (Google Sheets)** and write **research reports** with clear methodology and reproducible data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔎 Research Focus
+- **On-chain analytics**: activity, flows, TVL, stablecoin liquidity, exchange inflows/outflows
+- **Market structure**: liquidity, narratives, cycles, risk-on/off regimes
+- **DeFi & L1/L2**: protocol usage, user growth, revenue, sustainability
+
+---
+
+## ⭐ Featured Work (Portfolio)
+- **On-chain Weekly Report (Sheets + Report)** → *(coming / link)*
+- **ETH vs SOL — On-chain Comparative Research** → *(coming / link)*
+- **On-chain Metrics Dashboard Template (Google Sheets)** → *(coming / link)*
+
+---
+
+## 🧰 Tools
+- **Google Sheets / Excel** (dashboards, automation, scoring systems)
+- **Writing Report** (executive summary, thesis-style structure)
+- **Python** (data cleaning, charts, quick analysis)
+- Learning: SQL/Dune basics, data sources (DeFiLlama, TokenTerminal, etc.)
+
+---
+
+## 📌 What I can do for a research team
+- Turn messy data into **clean dashboards**
+- Produce **weekly research notes** with clear evidence
+- Explain complex crypto topics in **simple, structured writing**
+
+---
+
+## 📫 Contact
+- Email: <your email>
+- LinkedIn: <your link>
+- Portfolio/Notion (optional): <your link>
