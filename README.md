@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Firsty+%F0%9F%91%8B;On-chain+Research+%C3%97+Finance;Sheets+%2F+Writing+Report+%2F+Python)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Firstyjps&fontAlign=50&fontAlignY=35&desc=Digital%20Asset%20Research%20(On-chain)&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Firstyjps&fontAlign=50&fontAlignY=35&desc=On-chain%20Analytics%20%C3%97%20Finance&descAlign=50&descAlignY=60" />
 </div>
 
 
