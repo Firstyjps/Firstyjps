@@ -35,6 +35,5 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 ---
 
 ## 📫 Contact
-- Email: <your email>
-- LinkedIn: <your link>
-- Portfolio/Notion (optional): <your link>
+- Email: k.junpoonsup@gmail.com
+- LinkedIn: https://www.linkedin.com/in/firstyjun/
