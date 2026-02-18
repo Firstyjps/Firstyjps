@@ -47,3 +47,5 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 ## 📫 Contact
 - Email: k.junpoonsup@gmail.com
 - LinkedIn: https://www.linkedin.com/in/firstyjun/
+
+![snake](https://raw.githubusercontent.com/Firstyjs/Firstyjs/main/dist/github-contribution-grid-snake.svg)
