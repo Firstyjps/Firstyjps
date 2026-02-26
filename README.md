@@ -24,9 +24,8 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 ---
 
 ## ⭐ Featured Work (Portfolio)
-- **Bitcoin Correlation Analysis** → *https://drive.google.com/file/d/1hvEjjT5gfw1ySFHnYibOVIQGPraELc7c/view?usp=sharing*
-- **High-Yield ETF Valuation Dashboard ** → *https://docs.google.com/spreadsheets/d/1JQUiRqtEyFVYhB5nJtTWbCXZUefHsZN9CcTL-4F--eY/edit?usp=sharing*
-- 
+- **Bitcoin Correlation Analysis** → [View report (PDF)][btc_pdf] | [Live dashboard][btc_app]
+- **High-Yield ETF Valuation Dashboard** → [Open Google Sheet][etf_sheet]
 ---
 
 ## 🧰 Tools
@@ -39,6 +38,9 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 
 ## 📌 What I can do for a research team
 - Turn messy data into **clean dashboards**
+
+
+
 - Produce **weekly research notes** with clear evidence
 - Explain complex crypto topics in **simple, structured writing**
 
@@ -47,3 +49,8 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 ## 📫 Contact
 - Email: k.junpoonsup@gmail.com
 - LinkedIn: https://www.linkedin.com/in/firstyjun/
+
+
+[btc_pdf]: https://drive.google.com/file/d/1hvEjjT5gfw1ySFHnYibOVIQGPraELc7c/view?usp=sharing
+[btc_app]: https://firstyjps.streamlit.app
+[etf_sheet]: https://docs.google.com/spreadsheets/d/1JQUiRqtEyFVYhB5nJtTWbCXZUefHsZN9CcTL-4F--eY/edit?usp=sharing
