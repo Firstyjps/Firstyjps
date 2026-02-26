@@ -1,4 +1,4 @@
-<div align="center">
+<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/c6c41669-7a65-4e13-ada7-7fcfce1ed257" /><div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Firsty+%F0%9F%91%8B;On-chain+Research+%C3%97+Finance;Sheets+%2F+Writing+Report+%2F+Python)](https://git.io/typing-svg)
 
@@ -24,10 +24,9 @@ I build **on-chain dashboards (Google Sheets)** and write **research reports** w
 ---
 
 ## ⭐ Featured Work (Portfolio)
-- **On-chain Weekly Report (Sheets + Report)** → *(coming / link)*
-- **ETH vs SOL — On-chain Comparative Research** → *(coming / link)*
-- **On-chain Metrics Dashboard Template (Google Sheets)** → *(coming / link)*
-
+- **Bitcoin Correlation Analysis** → *https://drive.google.com/file/d/1hvEjjT5gfw1ySFHnYibOVIQGPraELc7c/view?usp=sharing*
+- **High-Yield ETF Valuation Dashboard ** → *https://docs.google.com/spreadsheets/d/1JQUiRqtEyFVYhB5nJtTWbCXZUefHsZN9CcTL-4F--eY/edit?usp=sharing*
+- 
 ---
 
 ## 🧰 Tools
