@@ -62,9 +62,6 @@
 
 <p align="center"><sub>Finance tooling: MT4/MT5 · Advanced Excel / Google Sheets · DeFiLlama · Dune (basic SQL)</sub></p>
 
----
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firstyjps&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstyjps&layout=compact&theme=tokyonight&hide_border=true&title_color=00c2ff" height="150" alt="Top Languages" />
+  <sub>📍 Chonburi, Thailand · Open to investment-analyst / research internships</sub>
 </div>
