@@ -1,56 +1,57 @@
-<img width="468" height="13" alt="image" src="https://github.com/user-attachments/assets/c6c41669-7a65-4e13-ada7-7fcfce1ed257" /><div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Firsty+%F0%9F%91%8B;On-chain+Research+%C3%97+Finance;Sheets+%2F+Writing+Report+%2F+Python)](https://git.io/typing-svg)
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=Firstyjps&fontAlign=50&fontAlignY=35&desc=On-chain%20Analytics%20%C3%97%20Finance&descAlign=50&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Firsty%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=On-chain%20Analytics%20%C3%97%20Finance&descAlignY=60&descAlign=50" />
 </div>
 
+<h3 align="center">Finance Undergraduate | Digital Asset & On-chain Research Intern Candidate</h3>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/firstyjps/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:k.junpoonsup@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
+<br>
 
-# Firsty (Firstyjps) — On-chain Research × Finance
-
-**Digital Asset Research Intern candidate **  
-I build **on-chain dashboards (Google Sheets)** and write **research reports** with clear methodology and reproducible data.
-
----
-
-## 🔎 Research Focus
-- **On-chain analytics**: activity, flows, TVL, stablecoin liquidity, exchange inflows/outflows
-- **Market structure**: liquidity, narratives, cycles, risk-on/off regimes
-- **DeFi & L1/L2**: protocol usage, user growth, revenue, sustainability
+<p align="center">
+  <em>I build <b>on-chain dashboards</b>, develop <b>market analysis tools</b>, and write <b>research reports</b> with clear methodology and reproducible data.</em>
+</p>
 
 ---
 
-## ⭐ Featured Work (Portfolio)
-- **Bitcoin Correlation Analysis** → [View report (PDF)][btc_pdf] | [Live dashboard][btc_app]
-- **High-Yield ETF Valuation Dashboard** → [Open Google Sheet][etf_sheet]
----
+### 🚀 Featured Technical Projects (Portfolio)
+> Showcasing the intersection of Finance, Data, and Software Engineering.
 
-## 🧰 Tools
-- **Google Sheets / Excel** (dashboards, automation, scoring systems)
-- **Writing Report** (executive summary, thesis-style structure)
-- **Python** (data cleaning, charts, quick analysis)
-- Learning: SQL/Dune basics, data sources (DeFiLlama, TokenTerminal, etc.)
-
----
-
-## 📌 What I can do for a research team
-- Turn messy data into **clean dashboards**
-
-
-
-- Produce **weekly research notes** with clear evidence
-- Explain complex crypto topics in **simple, structured writing**
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 📊 **[Crypto Market Terminal](https://github.com/Firstyjps/crypto-terminal)** | Bloomberg-style crypto dashboard with live WebSocket prices, multi-timeframe charts, and portfolio tracking. | `Vanilla JS`, `WebSockets` |
+| 💧 **[Meteora DLMM Pool Scanner](https://github.com/Firstyjps/meteora-scanner)** | Real-time DeFi liquidity pool analyzer for Meteora v3.0, identifying optimal yield opportunities. | `JavaScript`, `DeFi API` |
+| 📚 **[AISA Flashcard Library](https://github.com/Firstyjps/aisa-flash)** | Interactive exam prep library with 880+ cards for the AISA investment analyst qualification. | `HTML/CSS/JS` |
+| 📈 **[Bitcoin Correlation Analysis](https://github.com/Firstyjps/Bitcoin-Correlation-Analysis)** | Data analysis project evaluating BTC's correlation with macroeconomic indicators. | `Python`, `Jupyter` |
 
 ---
 
-## 📫 Contact
-- Email: k.junpoonsup@gmail.com
-- LinkedIn: https://www.linkedin.com/in/firstyjun/
+### 🧠 Research Focus & Capabilities
+- **On-chain Analytics:** Activity, flows, TVL, stablecoin liquidity, exchange inflows/outflows.
+- **Market Structure:** Liquidity, narratives, cycles, risk-on/off regimes.
+- **DeFi & L1/L2:** Protocol usage, user growth, revenue, sustainability analysis.
+- **Deliverables:** Turning messy data into clean dashboards and producing weekly research notes with clear evidence.
 
+---
 
-[btc_pdf]: https://drive.google.com/file/d/1hvEjjT5gfw1ySFHnYibOVIQGPraELc7c/view?usp=sharing
-[btc_app]: https://firstyjps.streamlit.app
-[etf_sheet]: https://docs.google.com/spreadsheets/d/1JQUiRqtEyFVYhB5nJtTWbCXZUefHsZN9CcTL-4F--eY/edit?usp=sharing
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,github,notion" />
+  </a>
+</p>
+
+*   **Data & Automation:** Python (Pandas, Data Cleaning), Advanced Google Sheets/Excel (Dashboards, Scoring Systems).
+*   **Finance & Trading:** MT4 / MT5 (Technical Analysis & Charting).
+*   **Data Sources:** DeFiLlama, TokenTerminal, Dune Analytics (Basic SQL).
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Firstyjps&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstyjps&layout=compact&theme=tokyonight&hide_border=true&title_color=00c2ff" height="150" alt="Top Languages" />
+</div>
