@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Firsty%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=On-chain%20Analytics%20%C3%97%20Finance&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kornkasem%20Junpoonsup&fontSize=42&fontAlignY=35&desc=Finance%20Analyst%20%C2%B7%20Valuation%20%C2%B7%20Markets&descAlignY=58&descAlign=50" />
 </div>
 
-<h3 align="center">Finance Undergraduate | Digital Asset & On-chain Research Intern Candidate</h3>
+<h3 align="center">Finance Undergraduate (BBA, GPA 3.49) · AISA & IC Complex 1 · Aspiring Investment Analyst</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/firstyjps/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,46 +12,59 @@
 <br>
 
 <p align="center">
-  <em>I build <b>on-chain dashboards</b>, develop <b>market analysis tools</b>, and write <b>research reports</b> with clear methodology and reproducible data.</em>
+  <em>Finance analyst who <b>builds his own tools</b>. I combine <b>valuation & market analysis</b>
+  with the ability to turn raw data into <b>dashboards and research</b> — across equities,
+  derivatives, and on-chain markets.</em>
 </p>
 
 ---
 
-### 🚀 Featured Technical Projects (Portfolio)
-> Showcasing the intersection of Finance, Data, and Software Engineering.
+### 👤 About
 
-| Project | Description | Tech Stack |
+- 🎓 **BBA Finance @ Burapha University** (GPA 3.49, grad Mar 2027)
+- 📜 **AISA** (SEC-recognized investment analyst qualification) · **IC Complex 1** — all modules passed
+- 📊 Coursework: **Advanced Derivatives, Econometrics, Portfolio Management**
+- 🎯 Focus: equity & derivatives analysis, valuation, and quantitative market research
+- 🌏 Chonburi, Thailand
+
+---
+
+### 🚀 Featured Projects
+> Finance domain knowledge, applied in code.
+
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| 📊 **[Crypto Market Terminal](https://github.com/Firstyjps/crypto-terminal)** | Bloomberg-style crypto dashboard with live WebSocket prices, multi-timeframe charts, and portfolio tracking. | `Vanilla JS`, `WebSockets` |
-| 💧 **[Meteora DLMM Pool Scanner](https://github.com/Firstyjps/meteora-scanner)** | Real-time DeFi liquidity pool analyzer for Meteora v3.0, identifying optimal yield opportunities. | `JavaScript`, `DeFi API` |
-| 📚 **[AISA Flashcard Library](https://github.com/Firstyjps/aisa-flash)** | Interactive exam prep library with 880+ cards for the AISA investment analyst qualification. | `HTML/CSS/JS` |
-| 📈 **[Bitcoin Correlation Analysis](https://github.com/Firstyjps/Bitcoin-Correlation-Analysis)** | Data analysis project evaluating BTC's correlation with macroeconomic indicators. | `Python`, `Jupyter` |
+| 📈 **[Pair Trading System](https://github.com/Firstyjps/pair-trading-system)** | Statistical-arbitrage engine — cointegration screening, z-score signals, backtest of market-neutral spreads. | `TypeScript` `Quant` |
+| 🧮 **[Options Analytics](https://github.com/Firstyjps/option-dashboard)** | Derivatives dashboard — Greeks, payoff diagrams, and implied-volatility surface. | `TypeScript` `React` |
+| 📊 **[Spread Dashboard](https://github.com/Firstyjps/spread-dashboard)** | Yield-spread & rate-differential monitor to gauge risk-on/off regimes. | `Python` |
+| 🖥️ **[Pulse Terminal](https://github.com/Firstyjps/pulse-terminal)** | Bloomberg-style macro market terminal with an MCP-first data architecture. | `Next.js` `Node` |
+| 💼 **[WealthBoard](https://github.com/Firstyjps/wealthboard)** | Personal wealth-tracking & portfolio dashboard. | `Next.js` `shadcn/ui` |
+| 📚 **[AISA Flashcards](https://github.com/Firstyjps/aisa-flash)** | 880+ interactive cards across 11 decks for the AISA analyst exam. | `HTML/JS` |
 
 ---
 
-### 🧠 Research Focus & Capabilities
-- **On-chain Analytics:** Activity, flows, TVL, stablecoin liquidity, exchange inflows/outflows.
-- **Market Structure:** Liquidity, narratives, cycles, risk-on/off regimes.
-- **DeFi & L1/L2:** Protocol usage, user growth, revenue, sustainability analysis.
-- **Deliverables:** Turning messy data into clean dashboards and producing weekly research notes with clear evidence.
+### 🧠 Capabilities
+
+- **Valuation & Analysis** — DCF/FCFF/FCFE, relative valuation, financial-statement & scenario analysis
+- **Products** — equities, mutual funds, fixed income, derivatives (SSF, options); suitability & asset allocation
+- **Quant & Data** — Python (Pandas), Advanced Excel/Google Sheets, basic SQL, backtesting
+- **On-chain edge** — flows, TVL, stablecoin liquidity, exchange in/out-flows as an added market lens
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,github,notion" />
+    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,js,html,css,github,notion" />
   </a>
 </p>
 
-*   **Data & Automation:** Python (Pandas, Data Cleaning), Advanced Google Sheets/Excel (Dashboards, Scoring Systems).
-*   **Finance & Trading:** MT4 / MT5 (Technical Analysis & Charting).
-*   **Data Sources:** DeFiLlama, TokenTerminal, Dune Analytics (Basic SQL).
+<p align="center"><sub>Finance tooling: MT4/MT5 · Advanced Excel / Google Sheets · DeFiLlama · Dune (basic SQL)</sub></p>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Firstyjps&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Firstyjps&show_icons=true&theme=tokyonight&hide_border=true&title_color=00c2ff&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firstyjps&layout=compact&theme=tokyonight&hide_border=true&title_color=00c2ff" height="150" alt="Top Languages" />
 </div>
